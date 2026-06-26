@@ -1,0 +1,6 @@
+{
+  "name": "Dan Sai Adventure",
+  "description": "Dan Sai Adventure start screen and interactive platformer mini-game with custom control settings, featuring Phi Ta Khon elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
